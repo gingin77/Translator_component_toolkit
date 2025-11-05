@@ -1,5 +1,7 @@
 # TCT Use Case Rethink
 
+Goal of this use case is to focus on AOP Key Event Relationships (KERs) that include [Key Event #341, Impairment, Learning and memory](https://aopwiki.org/events/341). The table below lists events that are upstream from KE 341 within KERs that are in AOPs in the AOP-Wiki. The first upstream event includes "neuronal network function", so I started looking for nodes in Translator for "Neural networks" & "Neural network". This was dones in a Jupyter notebook linked below.
+
 The results I got back for "Neural networks" & "Neural network" in [impaired_learning_and_memory notebook](use_cases/impaired_learning_and_memory.ipynb),
 were small compared to what I was hoping to get back and the processing time was slow, so I plan to
 spend time looking at what I get back when sending queries directly to [Node Normalizer](https://nodenormalization-sri.renci.org/docs)
